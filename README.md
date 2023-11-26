@@ -27,8 +27,8 @@
 
 <div>
   <a href="https://github.com/gaby-mvi" title="ilustração do mapeamento de linguagens">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaby-mvi&show_icons=true&hide_border=true&count_private=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaby-mvi&langs_count=10&count_private=true&hide_border=true&theme=radical&layout=compact"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gaby-mvi&show_icons=true&hide_border=true&count_private=true&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaby-mvi&langs_count=10&count_private=true&hide_border=true&theme=radical&layout=compact"/>
 </div>
 
 ## 📱 Fale comigo:
