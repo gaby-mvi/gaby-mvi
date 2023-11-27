@@ -5,7 +5,7 @@
 
 - 🎓 Em formação desenvolvedor **Full Stack** pelo <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.
 - 👨‍💻 Me desafiando no <a href="https://www.dio.me/bootcamp">Bootcamp Potência Tech iFood</a>.
-- ⚡ Formada em Engenharia Elétrica com enfase em Eletrônica, porém resolvi mudar de area para a programação.
+- ⚡ Formada em Engenharia Elétrica com enfase em Eletrônica, porém resolvi mudar de área para a programação.
 
 ## 🚀 Minhas Skills
 
