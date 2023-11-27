@@ -3,7 +3,7 @@
 ## 🖖 Oie, eu sou a <strong>Gabriela Rosa!</strong>
 <h3> Sou uma entusiasta por programação e tecnologia!</h3>
 
-- 🎓 Em formação desenvolvedor **Full Stack** pelo <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.
+- 🎓 Em formação de desenvolvedor **Full Stack** pelo <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.
 - 👨‍💻 Me desafiando no <a href="https://www.dio.me/bootcamp">Bootcamp Potência Tech iFood</a>.
 - ⚡ Formada em Engenharia Elétrica com enfase em Eletrônica, porém resolvi mudar de área para a programação.
 
@@ -23,11 +23,11 @@
   </a>
 </p>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <div>
   <a href="https://github.com/gaby-mvi" title="ilustração do mapeamento de linguagens">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaby-mvi&show_icons=true&hide_border=true&count_private=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaby-mvi&show_icons=true&hide_border=true&count_private=true&theme=radical&"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaby-mvi&langs_count=10&count_private=true&hide_border=true&theme=radical&layout=normal"/>
 </div>
 
