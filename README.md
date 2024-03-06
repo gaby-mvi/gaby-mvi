@@ -4,7 +4,7 @@
 <h3> Sou uma entusiasta por programação e tecnologia!</h3>
 
 - 🎓 Em formação de desenvolvedor **Full Stack** pelo <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.
-- 👨‍💻 Me desafiando na <a href="https://www.alura.com.br/">Desenvolvedor FullStack Júnior em PHP</a>.
+- 👨‍💻 Me desafiando em tornar Desenvolvedor FullStack Júnior em PHP<a href="https://www.alura.com.br/">Alura</a>.
 - 💡 Concluido o <a href="https://www.dio.me/bootcamp">Bootcamp Potência Tech iFood - Programação do Zero</a>.
 - ⚡ Formada em Engenharia Elétrica com enfase em Eletrônica, porém resolvi mudar de área para a programação.
 
