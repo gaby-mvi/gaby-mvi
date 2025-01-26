@@ -3,8 +3,7 @@
 ## 🖖 Oie, eu sou a <strong>Gabriela Rosa!</strong>
 <h3> Sou uma entusiasta por programação e tecnologia!</h3>
 
-- 🎓 Em formação de desenvolvedor **Full Stack** pelo <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.
-- 👨‍💻 Me desafiando em tornar Desenvolvedora FullStack Júnior em PHP na<a href="https://www.alura.com.br/"> Alura</a>.
+- 👨‍💻 Me desafiando em tornar Desenvolvedora FullStack Mobile na<a href="https://www.udemy.com/"> Udemy com curso do Matheus Fraga</a>.
 - 💡 Concluido o <a href="https://www.dio.me/bootcamp">Bootcamp Potência Tech iFood - Programação do Zero</a>.
 - ⚡ Formada em Engenharia Elétrica com enfase em Eletrônica, porém resolvi mudar de área para a programação.
 
